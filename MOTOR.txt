@@ -2,3 +2,5 @@ string cilindraje
 string capacidad
 string marca
 string peso
+string cilindros
+string master
