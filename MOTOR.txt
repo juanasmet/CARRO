@@ -1,3 +1,4 @@
 string cilindraje
 string capacidad
+string marca
 string peso
