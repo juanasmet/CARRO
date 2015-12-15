@@ -1,0 +1,3 @@
+string cilindraje
+string capacidad
+string peso
