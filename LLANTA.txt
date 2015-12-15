@@ -1,0 +1,2 @@
+string marca
+float diametro
